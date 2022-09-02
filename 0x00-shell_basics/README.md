@@ -1,1 +1,1 @@
-Read me in the working folder
+Display the contents list of your current directory
