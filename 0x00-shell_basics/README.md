@@ -4,3 +4,4 @@ Delete the file betty from /tmp/my_first_directory
 Delete the directory my_first_directory that is in the tmp directory
 Write a script that changes the working directory to the previous one
 a script that list all files with names beginning in period and in root dir
+script that prints the type of the file named iamafile
