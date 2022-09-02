@@ -5,3 +5,4 @@ Delete the directory my_first_directory that is in the tmp directory
 Write a script that changes the working directory to the previous one
 a script that list all files with names beginning in period and in root dir
 script that prints the type of the file named iamafile
+Create a symbolic link  The symbolic link should be created in the current working directory
